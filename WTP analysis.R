@@ -25,6 +25,7 @@
 # 3. Demand Characteristics
 # Developed a demand plot showing the relationship between price levels and respondent quantities
 # Illustrated variations in WTP across different price points
+
 # Conclusion: 
 # The study provides a multi-faceted analysis of willingness to pay (WTP), 
 # offering insights into consumer behaviour, pricing dynamics, and factors influencing payment decisions.
