@@ -1,3 +1,31 @@
+# Name: Renee
+# File: Willingness to Use (WTU) Analysis
+
+# Objectives:
+# The study aims to understand the factors that influence respondents' attitudes towards using a particular service, 
+# focusing on the binary outcome of willingness to use (Y1).
+
+# Methodology:
+# Ordinary Least Squares (OLS) Regression
+# Logistic Regression (Binary) 
+# Diagnostic and Visualisation Techniques
+
+# Practical Implications:
+# 1. Targeted Strategy Development
+# Identify key segments more likely to adopt the service
+# Customize marketing and communication approaches
+# 2. Feature Enhancement
+# Focus on attributes most valued by potential users
+# Address potential barriers to adoption
+# 3. Personalisation Opportunities
+# Develop tailored service offerings
+# Create adaptive user experiences
+
+# Conclusion: 
+# The study demonstrates that service adoption is not a binary choice but a nuanced decision influenced by a constellation of factors. 
+# Our findings offer both theoretical insights and practical guidance for understanding and predicting user behavior.
+
+
 # Install necessary packages if not already installed
 packages <- c("sampleSelection", "car", "ggplot2", "broom", "gridExtra")
 
