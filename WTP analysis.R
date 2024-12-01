@@ -27,7 +27,7 @@
 # Illustrated variations in WTP across different price points
 # Conclusion: 
 # The study provides a multi-faceted analysis of willingness to pay (WTP), 
-# offering insights into consumer behavior, pricing dynamics, and factors influencing payment decisions.
+# offering insights into consumer behaviour, pricing dynamics, and factors influencing payment decisions.
 
 
 # Install necessary packages if not already installed
@@ -47,6 +47,7 @@ library(broom) # For converting statistical objects into tidy data frames
 library(gridExtra) # For arranging multiple plots in a grid layout
 library(dplyr) # For data manipulation and transformation
 library(effects) # For visualising model effects and interactions
+library(pROC) # For visualising Receiver Operating Characteristic (ROC) curves
 
 # View the structure of the data
 str(n193)
